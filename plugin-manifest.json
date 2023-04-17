@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/apps/quay/",
+  "baseURL": "/beta/apps/quay/",
   "loadScripts": [
     "plugin-entry.c3b9d4e55bdc0d21772b.min.js"
   ],
