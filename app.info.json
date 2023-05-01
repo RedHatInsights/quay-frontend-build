@@ -1,0 +1,14 @@
+{
+  "app_name": "quay",
+  "node_version": "unknown",
+  "src_hash": "64e4e32704181b398129f318b555b1dd0840e6b9",
+  "src_tag": "",
+  "src_branch": "qa-stable",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.185.1","@patternfly/react-charts@6.74.3","@patternfly/react-core@4.239.0","@patternfly/react-icons@4.93.6","@patternfly/react-table@4.108.0"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-config-utilities@1.5.31","@redhat-cloud-services/frontend-components@3.9.31"],
+  "travis": {
+    "event_type": "",
+    "build_number": "",
+    "build_web_url": ""
+  }
+}
