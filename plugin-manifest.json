@@ -1,0 +1,11 @@
+{
+  "name": "quay-ui-plugin",
+  "version": "0.0.1",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/quay/",
+  "loadScripts": [
+    "plugin-entry.3d98dcd98b620e9aebdf.min.js"
+  ],
+  "buildHash": "3d98dcd98b620e9aebdfdff530c8fdae"
+}
