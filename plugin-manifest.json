@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/quay/",
   "loadScripts": [
-    "plugin-entry.a803c5c61edd32846460.min.js"
+    "plugin-entry.45bc74145aac35ec57e7.min.js"
   ],
-  "buildHash": "a803c5c61edd32846460c9652d16e74c"
+  "buildHash": "45bc74145aac35ec57e79a78c531c736"
 }
