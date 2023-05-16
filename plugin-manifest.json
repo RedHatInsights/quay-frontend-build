@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/apps/quay/",
+  "baseURL": "/beta/apps/quay/",
   "loadScripts": [
-    "plugin-entry.b345e78e09c2d8983349.min.js"
+    "plugin-entry.a7073fd8c63a7e6dd1d7.min.js"
   ],
-  "buildHash": "b345e78e09c2d89833494ffe8b427e64"
+  "buildHash": "a7073fd8c63a7e6dd1d73f59ed04e091"
 }
